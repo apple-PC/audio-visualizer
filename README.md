@@ -1,1 +1,4 @@
 # audio-visualizer
+## 💛 支持作者
+
+如果这个项目对你有帮助，欢迎在 [爱发电](https://afdian.com/a/apple-pc) 支持我，你的支持是我继续创作的动力～
